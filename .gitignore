@@ -6,3 +6,5 @@
 /.luacheckcache
 /doc/compiled
 /doc/node_modules
+*.*~
+build64

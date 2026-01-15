@@ -1,8 +1,5 @@
 # lua_cliargs
 
-[![Luacheck](https://img.shields.io/github/actions/workflow/status/lunarmodules/lua_cliargs/luacheck.yml?branch=master&label=Luacheck&logo=Lua)](https://github.com/lunarmodules/lua_cliargs/actions?workflow=Luacheck)
-[![Busted](https://img.shields.io/github/actions/workflow/status/lunarmodules/lua_cliargs/busted.yml?branch=master&label=Busted&logo=Lua)](https://github.com/lunarmodules/lua_cliargs/actions?workflow=Busted)
-
 cliargs is a command-line argument parser for Lua. It supports several types of arguments:
 
 1. required arguments
@@ -19,7 +16,7 @@ See the examples under the `examples/` directory.
 
 ## API
 
-See http://lua-cliargs.netlify.com/ for the API docs.
+See [http://lua-cliargs.netlify.app/](http://lua-cliargs.netlify.app/) for the API docs.
 
 ## Help listings `--help`
 
